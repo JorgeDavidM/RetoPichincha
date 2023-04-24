@@ -1,0 +1,9 @@
+Conclusiones:
+
+*) Al utilizar herramientas de automatización como Selenium, TestNG y Maven, se puede mejorar la eficiencia y eficacia de las pruebas funcionales, ya que permite ejecutar de forma rápida y repetitiva las pruebas, identificar rápidamente errores y realizar informes detallados de resultados.
+
+*) Si la prueba se ejecuta con éxito, se puede identificar que la funcionalidad de compra en la página https://www.demoblaze.com/ está operando correctamente.
+
+*) Si la prueba falla en algún punto, se puede identificar y reportar el problema específico en la funcionalidad de compra que necesita ser corregida. Uno de los fallos que se obtuvo fue que, en la página "Cart", los productos podían variar en su orden, así que se tuvo que cambiar la condición para que se comparara con ambos, sin tener en cuenta su orden en la lista.
+
+*) La automatización también permite una mayor cobertura de pruebas, debido a que se pueden ejecutar una gran cantidad de pruebas en menos tiempo y con menor costo que las pruebas manuales.

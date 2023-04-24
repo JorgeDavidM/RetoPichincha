@@ -1,0 +1,5 @@
+Conclusiones:
+
+*) Los servicios de Signup y Login de demoblaze.com están funcionando correctamente y se pueden utilizar las solicitudes POST correspondientes para crear nuevos usuarios y autenticar los existentes en la plataforma.
+
+*) Se debe revisar la respuesta obtenida al ejecutar la creación de un nuevo usuario, debido a que el mensaje en JSON aparece vacío.
